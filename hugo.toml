@@ -2,3 +2,6 @@ baseURL = 'https://randyxchang.github.io/randall/'
 languageCode = 'en-us'
 title = 'randy chang'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
