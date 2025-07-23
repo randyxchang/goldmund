@@ -1,0 +1,20 @@
+---
+title: west32
+date: 2025-05-28T01:26:19.819Z
+lastmod: 2025-07-23T23:04:39.220Z
+---
+*just a couple of new kids on the block*
+
+A few weeks in Cleveland have gone by. *Does your body want to chew glass*, Benedict H. wrote. Aurelius confessed pages of gold, that said similar things, that I couldn't understand as much.
+
+This weekend, we went (to my) home. Mom asked what had happened in the last few weeks. I told her about this 2007 movie, *West 32nd*, starring John Cho, and how I went through every method, in vain, trying to find a copy of it. Every streaming service, every pirating website, every torrent forum. In the end, I bought a DVD secondhand (Amazon said all four of my potential addresses were out of shipping radius) off eBay. Subtracting five seconds to eat another bite of our favourite pizza, my mom found a working file on some Chinese website in twenty seconds.
+
+In Cleveland, we live in the Playhouse District — *the second largest theatre district/sector/industry/etc behind Broadway!* people will excitedly tell you — and so while going to the girls' apartment for dinner, Jon Ayden and I walked by a pair of well-dressed men. "I'm the merch guy" someone said to them. One thought led to another — *we're outside a theatre, they're carrying a bunch of gear* — and I asked what a merch guy was. One thing led to another, and the spectacled man said he probably had a few "comp" tickets left. A quick Google revealed he was from Toronto. White binder of material, water martinis, weapon-level crowd work, and some interesting political commentary later, Scott Thompson/Buddy Cole expressed disappointment that I lived in Leaside and had not known what Kids on the Block was.
+
+A girl not too far from me in age whose writing I read years ago was at a mutual friend's birthday party. Judging from her writing, and mine, I don't think we had a lot in common. I told her as much — that the traditionally conservative, boys-only upbringing was probably antithetical to seeing the world the same way. I don't remember any of the other conversations I had that evening,\[^2] but I do remember I thought, at least a little bit, in this one; mostly about the absolute absurdity of the only two Asians at the party\[^1] working together to explain the premise of [readings/yellowface](/readings/yellowface) to two confused strangers.
+
+I met a literary agent a while back, who told me Hua Hsu pitched him two books: the one he felt obliged to write, and the one he wanted to. West 32nd is a movie intended to be the Godfather if the Godfather was set in K-Town. I essentially only played NIKI, for the first time in a while, on the drive home.\[^3] And so, despite Buddy Cole's familiar references to Yonge-Dundas Square and Toronto Pride; despite sleeping in my childhood bed and the same dinner table now crowded with newcomers; despite high school alums and the unwaveringly horrible King Street establishments; what I'm trying to say is that I didn't feel at home until the last day, when I didn't speak a single word of English for a few hours.*"You guys made it!"* Scott Thompson exclaimed happily. The confused audience must have thought *who were these kids*. For those few hours at home, for the first time in a while, forever and never again, it felt good to be a kid who grew up on the block.
+
+\[^1]: I also don't know if this is true, but stick with me.\
+\[^2]: Unfortunately more due to their ease than to impairment — incidentally, two things that correlate, but that's besides the point — given the recent effects of Huberman on my life.\
+\[^3]: Incidentally, a great NIKI song.
