@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on randy chang</title>
-    <link>https://randyxchang.github.io/randall/tags/</link>
+    <link>http://localhost:1313/randall/tags/</link>
     <description>Recent content in Tags on randy chang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://randyxchang.github.io/randall/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/randall/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
